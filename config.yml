@@ -1,4 +1,4 @@
-baseURL: "https://chenyueyin.github.io" 
+baseURL: "https://cyin.github.io" 
 title: Yin Chenyue
 paginate: 20
 theme: PaperMod
@@ -56,9 +56,9 @@ params:
           title: Chenyue Yin
           subtitle: "I am a Quantitative Trader."
           imageUrl: "picture.jpeg"
-          imageWidth: 360
-          imageHeight: 360
-          imageTitle: Moritz-Maria von Igelfeld
+          imageWidth: 300
+          imageHeight: 300
+          imageTitle: CYIN
           buttons:
             - name: Papers
               url: papers/
